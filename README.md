@@ -12,8 +12,6 @@
 <img src="https://github.com/TJU-haoran/VCTK-16k-simulated/blob/main/Table1.png" width="500"/>
 </div>
 
-
-
 - We simulate 6-channel speech data from original single channel data through pyroomacoustics, the spacing of 6 microphones is 0.04 m, 0.04 m, 0.12 m, 0.04 m, 0.04 m. The parameters of simulated rooms are shown in Tabel 1, the length of room is a random number between 4 m and 15 m, the width of room is a random number between 3 m and length of room, the height of room is a random number between 3 m and 3.5 m. There are small, middle, large 3 types of room according to the length of the room, the RT60 is a random number between 0.2 and 0.3, 0.3 and 0.6, 0.4 and 0.7 respectively.
 
 ![](https://github.com/TJU-haoran/VCTK-16k-simulated/blob/main/Figure1.png)
