@@ -6,7 +6,7 @@
 
 ### Simulation process
 
-- VCTK corpus includes 44455 48k Hz 2-channel speech data uttered by 110 English speakers, the length of data is between 2 seconds and 17 second, mainly in 3 seconds to 4 seconds, so we choose all the first channel of 4-second length speech data as original single channel speech, 15450 in total. Moreover, we downsample the sampling rate to 16k Hz.
+- VCTK corpus (version 0.92) includes 44455 48k Hz 2-channel speech data uttered by 110 English speakers, the length of data is between 2 seconds and 17 second, mainly in 3 seconds to 4 seconds, so we choose all the first channel of 4-second length speech data as original single channel speech, 15450 in total. Moreover, we downsample the sampling rate to 16k Hz.
 
 <div align=center>
 <img src="https://github.com/TJU-haoran/VCTK-16k-simulated/blob/main/Table1.png" width="500"/>
