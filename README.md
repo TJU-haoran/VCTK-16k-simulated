@@ -4,7 +4,7 @@
 
 ##### 1. Download our simulated dataset 
 
-- VCTK_16k_simulated_data.zip (8.52G)
+- VCTK_16k_simulated_data.zip (8.47G)
   - Download link: https://drive.google.com/drive/folders/1DtT1C01q6jALRmMBa02qaKKLP50PQoQV?usp=sharing
 - The content in the VCTK_16k_simulated_data.zip
 
