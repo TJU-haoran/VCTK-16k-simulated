@@ -1,4 +1,4 @@
-# VCTK-16k-simulated
+# MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources
 
 ### Usage
 
