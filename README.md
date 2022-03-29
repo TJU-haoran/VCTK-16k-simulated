@@ -14,7 +14,9 @@
 
 - We simulate 6-channel speech data from original single channel data through pyroomacoustics, the spacing of 6 microphones is 0.04 m, 0.04 m, 0.12 m, 0.04 m, 0.04 m. The parameters of simulated rooms are shown in Tabel 1, the length of room is a random number between 4 m and 15 m, the width of room is a random number between 3 m and length of room, the height of room is a random number between 3 m and 3.5 m. There are small, middle, large 3 types of room according to the length of the room, the RT60 is a random number between 0.2 and 0.3, 0.3 and 0.6, 0.4 and 0.7 respectively.
 
-![](https://github.com/TJU-haoran/VCTK-16k-simulated/blob/main/Figure1.png)
+<div align=center>
+<img src="https://github.com/TJU-haoran/VCTK-16k-simulated/blob/main/Figure1.png" width="500"/>
+</div>
 
 - As shown in Figure 1, the microphone array is located in the middle of the wall, at a distance of 0.5 m from the wall and 2 m from the ground. In order to make sound sources cover the area in rooms better, we first set the angle of the sound source, then we leave 0.5 m between the sound source and the microphone array and between the sound source and the wall, divide the rest range into near, medium and far range, the distance between microphone array and sound source is a random number in 3 types of range, so we simulate one original single channel speech data at near, medium, far distance simultaneously.
 - We divide the 110 speakers into 90, 10 and 10 as the train speakers, valid speakers, test speakers. We simulated 50 train rooms, valid rooms and test rooms respectively. In train rooms, we divide 1 degree to 179 degree into 79 parts at 2 degree intervals and set one sound source in each part. In valid and test rooms, divide 1 degree to 179 degree into 9 parts at 20 degree intervals, so there are 9 sources in each room. The reason we demarcate the angle spacing is to make the speakers different for each angle in the room, so that multiple speakers can be arbitrarily combined later.
