@@ -10,7 +10,7 @@
 
   |  simulated_room   |                         description                          | simulated_json |                         description                          |
   | :---------------: | :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: |
-  | train_50_rooms_4s | 6-channel single source speech data for training, including 79 angles each room |     train      | 50rooms_4w_json_4s_2speaker<br>50rooms_4w_json_4s_3speaker<br>50rooms_4w_json_4s_4speaker |
+  | train_50_rooms_4s | 6-channel single source speech data for training, including 89 angles each room |     train      | 50rooms_4w_json_4s_2speaker<br>50rooms_4w_json_4s_3speaker<br>50rooms_4w_json_4s_4speaker |
   | valid_50_rooms_4s | 6-channel single source speech data for validation, including 9 angles each room |     valid      | 50rooms_1k_json_4s_2speaker<br/>50rooms_1k_json_4s_3speaker<br/>50rooms_1k_json_4s_4speaker |
   | test_50_rooms_4s  | 6-channel single source speech data for testing, including 9 angles each room |      test      | 50rooms_1k_json_4s_2speaker<br/>50rooms_1k_json_4s_3speaker<br/>50rooms_1k_json_4s_4speaker |
 
