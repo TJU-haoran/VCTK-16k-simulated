@@ -66,4 +66,4 @@ Due to there are too many speeches in our training set, so we don't mix the mult
 ## Contact information
 
 - Since this work was done during my internship at Huawei, I cannot open source the code due to confidentiality requirement, but please contact me if you have any questions about the experimental details.
-- Email: fuyanjie [AT] tju [DOT] edu [DOT] cn, haoran_yin [AT] tju [DOT] edu [DOT] cn
+- Email: fuyanjie@tju.edu.cn, haoran_yin@tju.edu.cn
