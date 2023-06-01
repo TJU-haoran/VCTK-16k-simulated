@@ -19,7 +19,8 @@ Please cite the following papers if you use our dataset:
 ### 1. Download our simulated dataset 
 
 - VCTK_16k_simulated_data.zip (8.11G)
-  - Download link: https://drive.google.com/file/d/1x9xDPsoAMxB8JohBltgirUCRqbBxLorF/view?usp=sharing
+  - Download link1: https://drive.google.com/file/d/1x9xDPsoAMxB8JohBltgirUCRqbBxLorF/view?usp=sharing
+  - Download link2：https://pan.baidu.com/s/1Pg3BqeQbFMgCTlBIAjZHHw  Extraction code：2023 (Due to file size limitation, we divided train_50_rooms_4s into 3 compressed packages train_50_rooms_4s_group1.zip, train_50_rooms_4s_group2.zip, and train_50_rooms_4s_group3.zip. After downloading, please put the files in the compressed package in the train_50_rooms_4s folder)
 - The content in the VCTK_16k_simulated_data.zip
 
 |  simulated_room   |                         description                          | simulated_json |                         description                          |
